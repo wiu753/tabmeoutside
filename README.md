@@ -1,4 +1,4 @@
-# Custom Tab Switcher
+# tabmeoutside
 **tabmeoutside** is a Chrome extension that allows you to switch between browser tabs using custom keybindings.
 
 ## Features
