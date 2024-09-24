@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "tabmeoutside",
+  "version": "1.0",
+  "description": "Switch between tabs with custom keybindings.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "next-tab": {
+      "suggested_key": {
+        "default": "Alt+L"
+      },
+      "description": "Move to the next tab."
+    },
+    "previous-tab": {
+      "suggested_key": {
+        "default": "Alt+H"
+      },
+      "description": "Move to the previous tab."
+    }
+  }
+}
