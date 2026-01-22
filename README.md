@@ -12,4 +12,4 @@
 2. Find **tabmeoutside** and set your preferred keybindings for switching tabs.
 
 ## License
-This project is licensed under the [MIT License](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
